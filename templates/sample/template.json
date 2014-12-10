@@ -1,0 +1,20 @@
+{
+  "name": "Test Template",
+  "vars": [
+    {
+      "name": "color-a",
+      "val": "#FF0000",
+      "desc": "The color A"
+    },
+    {
+      "name": "color-b",
+      "val": "#00FF00",
+      "desc": "The color B"
+    },
+    {
+      "name": "color-c",
+      "val": "#0000FF",
+      "desc": "The color A"
+    }
+  ]
+}
